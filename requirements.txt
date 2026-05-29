@@ -1,0 +1,9 @@
+# Core Frameworks
+kivy
+kivymd
+
+# Networking (if you are using specific libraries)
+# If you are only using the built-in 'socket' module, you don't even need to list it!
+
+# Other dependencies
+requests
